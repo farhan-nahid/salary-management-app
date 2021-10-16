@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Md Mazlan",
+    "photo": "https://i.ibb.co/DGTZLN4/mazlan.jpg",
+    "designation": "Android Developer",
+    "salary": "25000"
+  },
+  {
+    "name": "Solaiman Shadin",
+    "photo": "https://i.ibb.co/CQkhDVQ/shadin.jpg",
+    "designation": "Web Developer",
+    "salary": "20000"
+  },
+  {
+    "name": "Shahin Alam",
+    "photo": "https://i.ibb.co/D14g3hW/shahin.jpg",
+    "designation": "Web Developer",
+    "salary": "20000"
+  },
+  {
+    "name": "Mamun Miah",
+    "photo": "https://i.ibb.co/b65GNj5/mamun.jpg",
+    "designation": "Graphics Designer",
+    "salary": "15000"
+  },
+  {
+    "name": "Zahidul Islam",
+    "photo": "https://i.ibb.co/VM6ncxH/zahidul.jpg",
+    "designation": "Graphics Designer",
+    "salary": "15000"
+  },
+  {
+    "name": "Sukanti Kumar",
+    "photo": "https://i.ibb.co/sgxczKy/sukanti.jpg",
+    "designation": "Jr. Executive",
+    "salary": "9000"
+  },
+  {
+    "name": "Chondro Sekhor",
+    "photo": "https://i.ibb.co/YTvTkJf/sekhor.jpg",
+    "designation": "Assistent Officer",
+    "salary": "10000"
+  },
+  {
+    "name": "Jahid Hasan",
+    "photo": "https://i.ibb.co/5kzxkBM/jahid.jpg",
+    "designation": "Digital Marketer",
+    "salary": "10000"
+  },
+  {
+    "name": "Md Sakil",
+    "photo": "https://i.ibb.co/QdqWZtb/sakil.jpg",
+    "designation": "Digital Marketer",
+    "salary": "10000"
+  },
+  {
+    "name": "Md Eftikhar",
+    "photo": "https://i.ibb.co/5FfRqnZ/eftikhar.jpg",
+    "designation": "Database Administrator",
+    "salary": "13000"
+  },
+  {
+    "name": "MD Munna",
+    "photo": "https://i.ibb.co/DM3Z6qL/munna.jpg",
+    "designation": "It Executive",
+    "salary": "16000"
+  },
+  {
+    "name": "Nazmul Hasan",
+    "photo": "https://i.ibb.co/8PyYQtV/nazmul.jpg",
+    "designation": "Hardware Engineer",
+    "salary": "16000"
+  },
+  {
+    "name": "Tanvir Sarkar",
+    "photo": "https://i.ibb.co/0FxyvNg/tanvir.jpg",
+    "designation": "Computer Operator",
+    "salary": "8000"
+  },
+  {
+    "name": "Sohel Rana",
+    "photo": "https://i.ibb.co/Gd2SyVz/sohel.jpg",
+    "designation": "Graphics Designer",
+    "salary": "10000"
+  },
+  {
+    "name": "Apurba Roy",
+    "photo": "https://i.ibb.co/X4zc1B7/apurba.jpg",
+    "designation": "Network Engineer",
+    "salary": "16000"
+  }
+]
