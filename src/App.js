@@ -1,7 +1,16 @@
 import "./App.css";
+import AppContainer from "./components/AppContainer/AppContainer";
+import Footer from "./components/Footer/Footer";
+import Header from "./components/Header/Header";
 
 function App() {
-  return <div></div>;
+  return (
+    <>
+      <Header />
+      <AppContainer />
+      <Footer />
+    </>
+  );
 }
 
 export default App;

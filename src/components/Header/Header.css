@@ -1,0 +1,17 @@
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  padding: 10px;
+  height: 10vh;
+}
+
+nav img {
+  width: 75px;
+  height: 75px;
+}
+
+nav h2 {
+  margin-left: 10px;
+}

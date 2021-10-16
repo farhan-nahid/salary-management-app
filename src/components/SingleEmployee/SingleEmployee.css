@@ -1,0 +1,35 @@
+.employee__card {
+  background-color: #fff;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 5px #d3d3d3;
+  border-radius: 5px;
+}
+
+.employee__card img {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.employee__card h3 {
+  margin: 10px 0;
+}
+
+.employee__card h5 {
+  margin: 10px 0;
+}
+
+.employee__card .pay__button {
+  border: 0;
+  outline: 0;
+  background-color: teal;
+  color: #fff;
+  padding: 10px 20px;
+  text-align: center;
+  font-family: inherit;
+  font-size: 16px;
+  border-radius: 5px;
+}

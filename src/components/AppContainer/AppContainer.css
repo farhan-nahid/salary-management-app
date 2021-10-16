@@ -1,0 +1,28 @@
+.app__container {
+  display: grid;
+  grid-template-columns: 70% 30%;
+  gap: 30px;
+  padding: 53px 0;
+  height: 85vh;
+}
+
+.employees__container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  overflow: auto;
+  padding-right: 30px;
+}
+
+.employees__container::-webkit-scrollbar {
+  width: 5px;
+}
+
+.employees__container::-webkit-scrollbar-thumb {
+  background: #fff;
+  border-radius: 2px;
+}
+
+.employees__container::-webkit-scrollbar-track {
+  background: #f6f1f1;
+}
