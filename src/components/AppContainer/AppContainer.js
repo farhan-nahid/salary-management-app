@@ -5,6 +5,7 @@ import "./AppContainer.css";
 
 const AppContainer = () => {
   const [employees, setEmployees] = useState([]);
+  const [employeeSalary, setEmployeeSalary] = useState([]);
 
   useEffect(() => {
     fetch("./employee.json")
@@ -12,15 +13,24 @@ const AppContainer = () => {
       .then((data) => setEmployees(data))
       .catch((err) => console.log(err));
   }, []);
+
+  const handleClick = (salary) => {
+    setEmployeeSalary([...employeeSalary, salary]);
+  };
+
   return (
     <section className="app__container container">
       <div className="employees__container">
         {employees.map((employee, idx) => (
-          <SingleEmployee key={idx} employee={employee} />
+          <SingleEmployee
+            key={idx}
+            employee={employee}
+            handleClick={handleClick}
+          />
         ))}
       </div>
       <div>
-        <Accounts />
+        <Accounts employeeSalary={employeeSalary} />
       </div>
     </section>
   );

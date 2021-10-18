@@ -32,4 +32,22 @@
   font-family: inherit;
   font-size: 16px;
   border-radius: 5px;
+  cursor: pointer;
+}
+.employee__card .pay__button span,
+.employee__card .paid__button span {
+  margin-right: 5px;
+}
+
+.employee__card .paid__button {
+  border: 0;
+  outline: 0;
+  background-color: rgba(0, 128, 128, 0.548);
+  color: #fff;
+  padding: 10px 20px;
+  text-align: center;
+  font-family: inherit;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
 }
